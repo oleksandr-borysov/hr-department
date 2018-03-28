@@ -1,0 +1,10 @@
+# Compiled files
+/target
+
+# Eclipse project settings
+/.settings 
+.classpath 
+.project
+
+# OSX files
+.DS_Store
